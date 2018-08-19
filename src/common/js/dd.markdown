@@ -1,0 +1,11 @@
+字段说明： "id": 用户id,
+	        "username": 用户名,
+	        "nickname": 昵称,
+	        "status": 状态,
+	        "tel": 手机号码,
+	        "level": 等级,
+	        "avatar": 头像,
+	        "like_num": 点赞数 ,
+	        "focus_num": 关注数,
+	        "social_num":动态数,
+	        "is_self": 0是自己点个人主页，1是他人点击

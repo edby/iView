@@ -1,0 +1,11 @@
+export const SET_MID = 'SET_MID'  // 登录id
+export const SET_IS_SHIELD = 'SET_IS_SHIELD' //是否屏蔽消息
+export const SET_DETAILS_LIST = 'SET_DETAILS_LIST' //选择商品的列表
+export const SET_DELETE_LIST = 'SET_DELETE_LIST' //删除商品的列表
+export const SET_EMPTY_DELETE_LIST = 'SET_EMPTY_DELETE_LIST' //清空商品的列表
+export const SET_IMG_LIST = 'SET_IMG_LIST' //图片上传前保存的base64
+export const SET_UPLOAD_LIST = 'SET_UPLOAD_LIST' //上传后保存的图片路径
+export const SET_EMPTY_IMG_LIST = 'SET_EMPTY_IMG_LIST' //清空上传前保存的base64
+export const SET_EMPTY_UPLOAD_LIST = 'SET_EMPTY_UPLOAD_LIST' //清空上传后保存的图片路径
+export const SET_IS_LOGIN = 'SET_IS_LOGIN' //判断是否登录
+export const SET_LOGIN_URL = 'SET_LOGIN_URL' //登录链接
